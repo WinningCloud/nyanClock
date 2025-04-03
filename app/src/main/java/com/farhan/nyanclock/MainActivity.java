@@ -37,7 +37,7 @@ import java.util.Random;
 
 public class MainActivity extends Activity {
     ImageButton switch_button;
-    //String starscount;
+
     Runnable timerRunnable;
     ImageView nyan_gif;
     MediaPlayer audio_player;
