@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">nyanClock</string>
+    <string name="rules">1. Keep hitting the stars before they disappear!\n
+        2. Don\'t touch area behind the star, or else your nyaying score drops by 50%\n
+        3. Don\'t try to reduce the volume - we won\'t let you play in peace!\n
+        4. By missing a star in 2 seconds, you will loose a heart\n
+        5. When you loose 3 hearts, you die of heart attack (hehe)\n
+        6. Reach a Nyaying score of 6389 to win!
+
+    </string>
+    <string name="rules_gpt">
+🚀 How to Play &amp; Survive!\n
+
+1️⃣ Tap the Stars Before They Vanish! 🌟💨  \n
+   - Stay quick or they’ll disappear before your eyes!  \n\n
+
+2️⃣ Beware of the Background! ⚠️🖐️  \n
+   - Accidentally tapping behind the star? Oops! Your Nyaying Score gets cut in half!  \n\n
+
+3️⃣ No Silent Mode Allowed! 🔊🚫  \n
+   - Try lowering the volume? Nice try! You gotta play it LOUD &amp; PROUD!\n\n
+
+4️⃣ Lucky UFO Surprise! 👽🚀\n
+   - A mysterious UFO will dash across the screen at random times.\n
+   - Tap it quickly to earn bonus points!\n\n
+
+5️⃣ 3 Hearts Gone = Game Over! ☠️💀  \n
+   - Lose all your hearts and you’ll suffer a Nyaying Heart Attack! (RIP 😆)  \n\n
+
+6️⃣ The Ultimate Challenge! 🏆🔥  \n
+   - Reach a Nyaying Score of 6389 to claim victory and become a Legendary Star Hunter!
+</string>
+</resources>
