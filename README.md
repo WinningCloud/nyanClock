@@ -1,5 +1,8 @@
 Nyan Runner – The Ultimate Reflex Game! 
-Download Release V1: https://www.mediafire.com/file/2tufj81hwbn8u9w/Nyan_Runner.apk/file
+Download Release V1: 
+https://farhann-6389.itch.io/nyan-runner
+OR
+https://www.mediafire.com/file/2tufj81hwbn8u9w/Nyan_Runner.apk/file
 
 Welcome to Nyan Runner, a fast-paced tapping game where quick reflexes and sharp focus are the only way to survive. Tap the stars, dodge chaos, and score your way into the Legendary Star Hunter hall of fame!
 
